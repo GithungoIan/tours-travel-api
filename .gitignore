@@ -1,0 +1,8 @@
+# cache files
+.cache
+
+# node node_modules
+node_modules
+
+# env files
+*.env
